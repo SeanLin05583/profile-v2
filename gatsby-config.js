@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "profile-v2",
+    siteUrl: "https://sean-profile.netlify.app",
   },
   plugins: [
     "gatsby-plugin-styled-components",
